@@ -1,8 +1,7 @@
-@-moz-document url("https://lbry.science/") {
+@-moz-document url-prefix("https://lbry.science/") {
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 body {
      font-family: 'Inter', 'Open Sans';
 }
-
 }
